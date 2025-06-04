@@ -37,9 +37,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshit503&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="Darshit's GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=darshit503&theme=dark&hide_border=false" alt="Darshit's Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshit503&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=darshit-pithadia&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="Darshit's GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=darshit-pithadia&theme=dark&hide_border=false" alt="Darshit's Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshit-pithadia&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
